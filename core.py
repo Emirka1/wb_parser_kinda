@@ -1,3 +1,5 @@
+# Нужно переделать на получение реальных данных с WB 
+
 import sqlite3 as sq
 import random
 import requests
